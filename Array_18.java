@@ -33,6 +33,15 @@ Sample Output :
 ===============
 2
 
+Input:
+======
+10
+2 3 4 5 2 3 4 5 1 2
+
+Expected Output:
+================
+1
+
 */
 import java.util.Scanner;
 class Array_18 
